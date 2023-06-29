@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cb63ae3.css",
+    "main.js": "/static/js/main.bc74ed8c.js",
+    "static/media/ProtoGrotesk-Regular.ttf": "/static/media/ProtoGrotesk-Regular.8fb72a49751a53d2def6.ttf",
+    "static/media/SuisseIntl-Regular.otf": "/static/media/SuisseIntl-Regular.b248914e0a53493d03f0.otf",
+    "static/media/SuisseIntl-Medium.otf": "/static/media/SuisseIntl-Medium.d6e230018ba96578144d.otf",
+    "index.html": "/index.html",
+    "main.4cb63ae3.css.map": "/static/css/main.4cb63ae3.css.map",
+    "main.bc74ed8c.js.map": "/static/js/main.bc74ed8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb63ae3.css",
+    "static/js/main.bc74ed8c.js"
+  ]
+}
